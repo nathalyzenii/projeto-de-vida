@@ -8,7 +8,7 @@
     --texto-fundo: rgba(58, 55, 94, 0.3); 
 } 
 
-@import url(‘https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap’);
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
 
 body { 
     background-color: var(--cor-de-fundo); 
@@ -35,7 +35,6 @@ body {
 .titulo-principal span {
     color: var(--verde);
 }
-
 .botao {
     font-family: "Crakra Petch", sans-serif;
     background-color: var(--botao-inativo);
@@ -46,4 +45,4 @@ body {
     font-size: 18px;
     align-items: center;
     width: 100%;
-        
+
